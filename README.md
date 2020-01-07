@@ -18,11 +18,11 @@ Follow these instructions to run this project on your local machine for developm
 
 ### `npm i`
 
-3. Follow the instruction in the second api and run it in the background
+3. Follow the instruction in the [second api](https://github.com/GerwinBaula/second-project-api) and run it in the background
 
 ### `node index.js`
 
-4. Start the server
+4. Open another commend prompt and start the server
 
 ### `npm start`
 
