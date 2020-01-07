@@ -22,7 +22,7 @@ Follow these instructions to run this project on your local machine for developm
 
 ### `node index.js`
 
-4. Open another commend prompt and start the server
+4. Open another command prompt and start the server
 
 ### `npm start`
 
